@@ -4,19 +4,27 @@
 
 ### C++
 
-- [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ![license](https://img.shields.io/badge/license-BSD-green)
-- [The Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk) ![license](https://img.shields.io/badge/license-BSD-green)
+- [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
+- [The Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 - [CloudCompare](https://github.com/CloudCompare/CloudCompare) ![license](https://img.shields.io/badge/license-GPL--2.0-orange)
-- [Computational Geometry Algorithms Library (CGAL)](https://github.com/CGAL/cgal) ![license](https://img.shields.io/badge/license-GPL%2FLGPL-orange) 
-- [Point Data Abstraction Library (PDAL)](https://github.com/PDAL/PDAL) ![license](https://img.shields.io/badge/license-BSD-green)
+- [Computational Geometry Algorithms Library (CGAL)](https://github.com/CGAL/cgal) ![license](https://img.shields.io/badge/license-GPL%2FLGPL-orange)
+- [Point Data Abstraction Library (PDAL)](https://github.com/PDAL/PDAL) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 - [Open3D](https://github.com/isl-org/Open3D) ![license](https://img.shields.io/badge/license-MIT-green)
 - [LAStools](https://github.com/LAStools/LAStools)
+- [VCGlib](https://github.com/cnr-isti-vclab/vcglib) ![license](https://img.shields.io/github/license/cnr-isti-vclab/vcglib)
 - [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ![license](https://img.shields.io/github/license/cnr-isti-vclab/meshlab)
 - [GEOS](https://github.com/libgeos/geos) ![license](https://img.shields.io/github/license/libgeos/geos)
 - [Constrained Delaunay Triangulation (CDT)](https://github.com/artem-ogre/CDT) ![license](https://img.shields.io/github/license/artem-ogre/CDT)
 - [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) ![license](https://img.shields.io/badge/license-MIT-green)
-- [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/) ![license](https://img.shields.io/badge/license-BSD-green)
+- [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
+- [OpenFlipper](https://www.graphics.rwth-aachen.de/software/openflipper/) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 - [libigl](https://github.com/libigl/libigl/) ![license](https://img.shields.io/github/license/libigl/libigl)
+- [Geogram](https://github.com/BrunoLevy/geogram) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
+- [Graphite](https://github.com/BrunoLevy/GraphiteThree) ![license](https://img.shields.io/github/license/BrunoLevy/GraphiteThree)
+- [Geometry-central](https://github.com/nmwsharp/geometry-central) ![license](https://img.shields.io/github/license/nmwsharp/geometry-central)
+- [CinoLib](https://github.com/mlivesu/cinolib) ![license](https://img.shields.io/github/license/mlivesu/cinolib)
+- [Easy3D](https://github.com/LiangliangNan/Easy3D) ![license](https://img.shields.io/github/license/LiangliangNan/Easy3D)
+- [DGtal](https://github.com/DGtal-team/DGtal) ![license](https://img.shields.io/github/license/DGtal-team/DGtal)
 - [Wykobi](https://www.wykobi.com/)
 
 ### C
@@ -26,9 +34,12 @@
 ### Python
 
 - [PyVista](https://github.com/pyvista/pyvista) ![license](https://img.shields.io/github/license/pyvista/pyvista)
+- [PyMesh](https://github.com/PyMesh/PyMesh)
 - [Shapely](https://github.com/shapely/shapely) ![license](https://img.shields.io/github/license/shapely/shapely)
 - [Trimesh](https://github.com/mikedh/trimesh) ![license](https://img.shields.io/github/license/mikedh/trimesh)
 - [pyntcloud](https://github.com/daavoo/pyntcloud) ![license](https://img.shields.io/github/license/daavoo/pyntcloud)
+- [vedo](https://github.com/marcomusy/vedo) ![license](https://img.shields.io/github/license/marcomusy/vedo)
+- [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
 
 #### Deep Learning
 
