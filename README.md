@@ -24,14 +24,18 @@
 - [Graphite](https://github.com/BrunoLevy/GraphiteThree) ![license](https://img.shields.io/github/license/BrunoLevy/GraphiteThree)
 - [Geometry-central](https://github.com/nmwsharp/geometry-central) ![license](https://img.shields.io/github/license/nmwsharp/geometry-central)
 - [CinoLib](https://github.com/mlivesu/cinolib) ![license](https://img.shields.io/github/license/mlivesu/cinolib)
+- [Lagrange](https://github.com/adobe/lagrange) ![license](https://img.shields.io/github/license/adobe/lagrange)
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) ![license](https://img.shields.io/github/license/LiangliangNan/Easy3D)
 - [DGtal](https://github.com/DGtal-team/DGtal) ![license](https://img.shields.io/github/license/DGtal-team/DGtal)
 - [mmg](https://github.com/MmgTools/mmg) ![license](https://img.shields.io/badge/license-GPL%2FLGPL-orange)
 - [Open CASCADE Technology (OCCT)](https://github.com/Open-Cascade-SAS/OCCT) ![license](https://img.shields.io/github/license/Open-Cascade-SAS/OCCT)
 - [Geometric Tools](https://github.com/davideberly/GeometricTools) ![license](https://img.shields.io/github/license/davideberly/GeometricTools)
-- [starlab](https://github.com/OpenGP/starlab)
+- [Earcut (C++)](https://github.com/mapbox/earcut.hpp) ![license](https://img.shields.io/github/license/mapbox/earcut.hpp)
+- [starlab](https://github.com/OpenGP/starlab) ![license](https://img.shields.io/badge/license-LGPL--2.0-orange)
 - [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - [Wykobi](https://www.wykobi.com/)
+- [Carve](https://github.com/VTREEM/Carve) ![license](https://img.shields.io/badge/license-GPL--2.0-orange)
+- [Voro++](https://math.lbl.gov/voro++/)
 
 ### C
 
@@ -39,6 +43,7 @@
 
 ### Python
 
+- [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) ![license](https://img.shields.io/github/license/cnr-isti-vclab/PyMeshLab)
 - [PyVista](https://github.com/pyvista/pyvista) ![license](https://img.shields.io/github/license/pyvista/pyvista)
 - [PyMesh](https://github.com/PyMesh/PyMesh)
 - [Shapely](https://github.com/shapely/shapely) ![license](https://img.shields.io/github/license/shapely/shapely)
@@ -46,6 +51,12 @@
 - [pyntcloud](https://github.com/daavoo/pyntcloud) ![license](https://img.shields.io/github/license/daavoo/pyntcloud)
 - [vedo](https://github.com/marcomusy/vedo) ![license](https://img.shields.io/github/license/marcomusy/vedo)
 - [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
+- [pygmsh](https://github.com/meshpro/pygmsh) ![license](https://img.shields.io/github/license/meshpro/pygmsh)
+- [meshplex](https://github.com/meshpro/meshplex)
+- [meshpy](https://github.com/inducer/meshpy)
+- [meshio](https://github.com/nschloe/meshio) ![license](https://img.shields.io/github/license/nschloe/meshio)
+- [Jigsaw](https://github.com/dengwirda/jigsaw)
+- [Salome Mesh](https://git.salome-platform.org/gitweb/?p=modules/smesh.git;a=summary)
 
 #### Deep Learning
 
@@ -53,6 +64,7 @@
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
 - [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) ![license](https://img.shields.io/github/license/pyg-team/pytorch_geometric)
 - [torch-points3d](https://github.com/torch-points3d/torch-points3d) ![license](https://img.shields.io/badge/license-BSD--3--Clause-green)
+- [jax3d](https://github.com/google-research/jax3d) ![license](https://img.shields.io/github/license/google-research/jax3d)
 
 ### R
 
@@ -62,6 +74,14 @@
 ### Matlab
 
 - [gptoolbox](https://github.com/alecjacobson/gptoolbox) ![license](https://img.shields.io/github/license/alecjacobson/gptoolbox)
+
+### Java
+
+- [Processing Geometry Suite](https://github.com/micycle1/PGS)
+
+### C#
+
+- [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) ![license](https://img.shields.io/github/license/Habrador/Computational-geometry)
 
 
 ## Lists
