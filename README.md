@@ -12,6 +12,7 @@
 - [Open3D](https://github.com/isl-org/Open3D) ![license](https://img.shields.io/badge/license-MIT-green)
 - [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) ![license](https://img.shields.io/badge/license-MIT-green)
 - [libigl](https://github.com/libigl/libigl/) ![license](https://img.shields.io/github/license/libigl/libigl)
+- [Mesh Processing Library (Hoppe)](https://github.com/hhoppe/Mesh-processing-library) ![license](https://img.shields.io/github/license/hhoppe/Mesh-processing-library)
 - [LAStools](https://github.com/LAStools/LAStools)
 - [GEOS](https://github.com/libgeos/geos) ![license](https://img.shields.io/github/license/libgeos/geos)
 - [Constrained Delaunay Triangulation (CDT)](https://github.com/artem-ogre/CDT) ![license](https://img.shields.io/github/license/artem-ogre/CDT)
@@ -36,6 +37,7 @@
 - [Wykobi](https://www.wykobi.com/)
 - [Carve](https://github.com/VTREEM/Carve) ![license](https://img.shields.io/badge/license-GPL--2.0-orange)
 - [Voro++](https://math.lbl.gov/voro++/)
+- [VESPA](https://gitlab.kitware.com/vtk-cgal/vespa)
 
 ### C
 
@@ -52,6 +54,7 @@
 - [vedo](https://github.com/marcomusy/vedo) ![license](https://img.shields.io/github/license/marcomusy/vedo)
 - [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
 - [pygmsh](https://github.com/meshpro/pygmsh) ![license](https://img.shields.io/github/license/meshpro/pygmsh)
+- [Point Cloud Utils](https://github.com/fwilliams/point-cloud-utils) ![license](https://img.shields.io/github/license/fwilliams/point-cloud-utils)
 - [meshplex](https://github.com/meshpro/meshplex)
 - [meshpy](https://github.com/inducer/meshpy)
 - [meshio](https://github.com/nschloe/meshio) ![license](https://img.shields.io/github/license/nschloe/meshio)
@@ -82,6 +85,10 @@
 ### C#
 
 - [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) ![license](https://img.shields.io/github/license/Habrador/Computational-geometry)
+
+### Javascript
+
+- [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) ![license](https://img.shields.io/github/license/gkjohnson/three-mesh-bvh)
 
 
 ## Lists
